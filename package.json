@@ -1,0 +1,20 @@
+{
+  "name": "cronometro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^4.4.1",
+    "easytimer.js": "^2.2.3",
+    "electron": "^7.1.10",
+    "jquery": "^3.4.1",
+    "windows-shortcuts": "^0.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "electron": "electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}
