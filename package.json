@@ -7,7 +7,7 @@
     "boostrap": "^2.0.0",
     "bootstrap": "^4.4.1",
     "easytimer.js": "^2.2.3",
-    "electron": "^7.1.10",
+    "electron": "^11.5.0",
     "jquery": "^3.4.1",
     "windows-shortcuts": "^0.1.6"
   },
